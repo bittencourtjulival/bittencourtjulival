@@ -1,10 +1,10 @@
-<h2><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi there, here is julival25 GitHub.</h2>
+<h2><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi there, here is Julival Bittencourt GitHub.</h2>
 
 
-[![Julival25 (bittencourtjulival) github stats](https://github-readme-stats.vercel.app/api?username=julival25)](https://github.com/julival25)
+[![Julival Bittencourt (bittencourtjulival) github stats](https://github-readme-stats.vercel.app/api?username=bittencourtjulival)](https://github.com/bittencourtjulival)
 
 <!--
-**julival25/julival25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**bittencourtjulival/julival25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
