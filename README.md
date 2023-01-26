@@ -2,7 +2,7 @@
 
 
 [![Julival Bittencourt (bittencourtjulival) github stats](https://github-readme-stats.vercel.app/api?username=bittencourtjulival)](https://github.com/bittencourtjulival)
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bittencourtjulival)](https://git.io/streak-stats)
 <!--
 **bittencourtjulival/bittencourtjulival** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
