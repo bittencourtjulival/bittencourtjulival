@@ -1,8 +1,8 @@
 <h2><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi there, here is Julival Bittencourt GitHub.</h2>
 
 
-[![Julival Bittencourt (bittencourtjulival) github stats](https://github-readme-stats.vercel.app/api?username=bittencourtjulival)](https://github.com/bittencourtjulival)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bittencourtjulival)](https://git.io/streak-stats)
+[![Julival Bittencourt (bittencourtjulival) github stats](https://github-readme-stats.vercel.app/api?username=bittencourtjulival&show_icons=true&theme=transparent)](https://github.com/bittencourtjulival)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bittencourtjulival&show_icons=true&theme=transparent)](https://github.com/bittencourtjulival)
 <!--
 **bittencourtjulival/bittencourtjulival** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
